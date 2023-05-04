@@ -1,0 +1,8 @@
+{
+    "Credentials": {
+        "AccessKeyId": "ASIAY7MSMX7WQTUDGK6C",
+        "SecretAccessKey": "yRlYZCkho6iG9Oc5XeDA0WjQQB9oAv6gTyZFnV3f",
+        "SessionToken": "IQoJb3JpZ2luX2VjEIL//////////wEaCWV1LXdlc3QtMSJHMEUCIQCeiQ0hCmYd4uJLUmR+Q47qWtmWQPN2DBC+UPIjhDiiJwIgBoiqYmyss4enqPBFVc8v54gXa5CH189nON7myadK8H0q+AEIi///////////ARAAGgw2MTcxNzE2OTc2NDUiDEU8osLOzXCS4qD4vyrMAeSiB7RTihqSgTue+39PtKVoQhdql0hHkX8sEnjA15HIK33smjagfk8+trPtr/8zBOHXg6LhoYBBBBPJvukIyy5QvayLFiQ2cgpWsC110xkjnwCn7bYYX+WrjxqYHw6u+rGxAy8NJII6Jn9neIvvb7hp1ZkslAXG5q2sdeD7FhgZAcVEopXprkqq5iiKPQ/oHHA/pFLjh8JBuH83rrChKNAzC5mJ49kvCNH+UyBrp4/qYgqW5PT03v6Mnv12vNI/EPa3jdNVU/WKBaYvnTDk9riiBjqYAVB6EeBTK+SZ72WfBtBPoEYHvi076XpKvH4wJUgRst+jVkNV4pUXNPVoKkMKOKvgrb58XgGCO+gMNs2vsLWPeoEiuAIl6pWS6oZU0/p9RbJKw5mjiHC/Ni27skYVdp7PrmBvijQxABlqZPDWPxf7BB4CZsKlN6vp/ThEhd14keonxvr1sakQYpjy6QTRdkqx3qHNKhrnn0y1",
+        "Expiration": "2023-04-30T21:56:52+00:00"
+    }
+}
